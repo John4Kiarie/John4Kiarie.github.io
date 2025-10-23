@@ -1,0 +1,25 @@
+
+title: "John Ndung'u Kiarie"
+description: "Cybersecurity Portfolio & Blog"
+url: "https://john4kiarie.github.io"
+baseurl: ""
+theme: minima
+
+menu:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+
+author:
+  name: "John Ndung'u Kiarie"
+  github: "https://github.com/john4kiarie"
+  linkedin: "https://www.linkedin.com/in/john-kiarie-b0346a289"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
